@@ -205,6 +205,7 @@ namespace UAS_046
         }
     }
 }
+//jawab
 //2. Singly Linked List, karena implementasi yang sederhana dan Pada singly linked list, insertion atau deletion dapat dilakukan dengan cepat pada ujung atau awal dari list.
 //3. Perbedaan array dan linked list adalah :
 // - Linked list hanya menyimpan data yang diperlukan saja
